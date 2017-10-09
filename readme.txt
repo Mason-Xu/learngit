@@ -7,4 +7,3 @@ Creating a new branch is quick and simple.
 
 
 creating a changed merge
-SourceTree Test
